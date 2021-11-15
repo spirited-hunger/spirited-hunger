@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hi there 👋 I'm Sung
 
-<!--
-**spirited-hunger/spirited-hunger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+## I build code, website and furniture
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🌱 I’m currently learning Typescript
+- 👯 I’m looking to collaborate on 
+- 💬 2022 Goals: Learning Unity and make a game
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🥁 I love to draw and play drums
+- ⚡ Fun fact: calico is an adjective for a cat with 3 colors
+
+### How to reach me:
+
+
+
+### Languages and Tools:
+
+
+
+
+
+
+
+
+[website]: 
+[]:
+[]:
+
