@@ -46,9 +46,4 @@
 [linkedin]: https://www.linkedin.com/in/sung-jin-kang-480987225/
 
 
-<style>
-    img {
-        margin:10px;
-    }
-</style> 
 
