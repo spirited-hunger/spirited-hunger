@@ -43,7 +43,7 @@
 
 ---
 
-<img align="left" alt="Sung's Github Stats" src="https://github-readme-stats.vercel.app/api?username=spirited-hunger&show_icons=true&theme=tokyonight&hide_border=true" />
+<img align="left" alt="Sung's Github Stats" src="https://github-readme-stats.vercel.app/api?username=spirited-hunger&show_icons=true&theme=tokyonight&hide_border=true&hide=stars" />
 
 <br />
 <br />
