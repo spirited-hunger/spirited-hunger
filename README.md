@@ -21,6 +21,8 @@
 
 <img align="left" alt="Javascript" width="26px" style="margin:10px;" src="https://user-images.githubusercontent.com/79678662/142154486-b2e1a534-8bc5-42a4-969d-7bea867e1420.png" /> 
 
+<img align="left" alt="Typescript" width="26px" style="margin:10px;" src="https://user-images.githubusercontent.com/79678662/142439205-944d8dd3-acd8-4945-9d57-22e16e6b56d0.png" /> 
+
 <img align="left" alt="React" width="26px" style="margin:10px;" src="https://user-images.githubusercontent.com/79678662/142155719-253be211-a1a0-4259-ab62-bc344beed5c6.png" />
 
 <img align="left" alt="Redux" width="23px" style="margin:10px;" src="https://user-images.githubusercontent.com/79678662/142155611-4626faa0-7066-4184-84f5-344451cd5fd1.png" />
