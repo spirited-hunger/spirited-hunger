@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Sung
 
-## I build code, website and furniture
+## I build code, websites, furniture and houses
 - 🔭 I’m currently working on [cloudi][website]
 - 🌱 I’m currently learning ***Typescript***
 - 👯 I’m looking to collaborate on architecture projects
