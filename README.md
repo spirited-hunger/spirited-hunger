@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Sung
 
 ## I build code, websites, furniture and houses
-- 🔭 I’m currently working on [cloudi][website]
+- 🔭 I’m currently working on [Checkmate][website]
 - 🌱 I’m currently learning ***Typescript***
 - 👯 I’m looking to collaborate on architecture projects
 - 💬 2022 Goals: Make a game using Unity
@@ -50,7 +50,7 @@
 <br />
 <br />
 
-[website]: https://cloudi.shop/
+[website]: https://github.com/spirited-hunger/checkmate
 [instagram]: https://www.instagram.com/sketch_sung/
 [linkedin]: https://www.linkedin.com/in/sung-jin-kang-480987225/
 
