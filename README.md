@@ -1,7 +1,7 @@
 ### Hi there 👋 &nbsp; I'm Sung
 
 ## I build code, websites, furniture and houses
-- 🔭 &nbsp; I’m currently working on [Checkmate][website]
+- 🔭 &nbsp; I’m currently working on [Pixelizer][website]
 - 🌱 &nbsp; I’m currently learning ***Typescript***
 - 👯 &nbsp; I’m looking to collaborate on architecture projects
 - 💬 &nbsp; 2022 Goals: Make a game using Unity
@@ -50,7 +50,7 @@
 <br />
 <br />
 
-[website]: https://github.com/spirited-hunger/checkmate
+[website]: https://github.com/spirited-hunger/pixelizer
 [instagram]: https://www.instagram.com/sketch_sung/
 [linkedin]: https://www.linkedin.com/in/sung-jin-kang-480987225/
 
