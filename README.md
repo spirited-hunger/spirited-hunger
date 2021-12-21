@@ -1,19 +1,19 @@
-### Hi there 👋 I'm Sung
+### Hi there 👋 &nbsp; I'm Sung
 
 ## I build code, websites, furniture and houses
-- 🔭 I’m currently working on [Checkmate][website]
-- 🌱 I’m currently learning ***Typescript***
-- 👯 I’m looking to collaborate on architecture projects
-- 💬 2022 Goals: Make a game using Unity
-- 🥁 I love to play drums and draw buildings 
-- ⚡ Fun fact: Calico is the name for a multicolored cat
+- 🔭 &nbsp; I’m currently working on [Checkmate][website]
+- 🌱 &nbsp; I’m currently learning ***Typescript***
+- 👯 &nbsp; I’m looking to collaborate on architecture projects
+- 💬 &nbsp; 2022 Goals: Make a game using Unity
+- 🥁 &nbsp; I love to play drums and draw buildings 
+- ⚡ &nbsp; Fun fact: Calico is the name for a multicolored cat
 
-### 📫 How to reach me:
-- ✉️ Email : sungjk511@gmail.com
-- 📷 Instagram : [sketch_sung][instagram]
-- 👥 LinkedIn : [Sung-Jin Kang][linkedin]
+### 📫  &nbsp; How to reach me:
+- ✉️ &nbsp; Email : sungjk511@gmail.com
+- 📷 &nbsp; Instagram : [sketch_sung][instagram]
+- 👥 &nbsp; LinkedIn : [Sung-Jin Kang][linkedin]
 
-### 🛠 Languages and Tools:
+### 🛠  &nbsp; Languages and Tools:
 
 <img align="left" alt="HTML" width="26px" style="margin:10px;" src="https://user-images.githubusercontent.com/79678662/142154904-901c84fe-0690-4652-bc45-de4a1c508c3d.png" />
 
