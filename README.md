@@ -3,7 +3,7 @@
 ## I build code, websites, furniture and houses
 - 🔭 &nbsp; I’m currently working on [Pixelizer][website]
 - 🌱 &nbsp; I’m currently learning ***Typescript***
-- 👯 &nbsp; I’m looking to collaborate on architecture projects
+- 👯 &nbsp; I’m looking to collaborate on architectural projects
 - 💬 &nbsp; 2022 Goals: Make a game using Unity
 - 🥁 &nbsp; I love to play drums and draw buildings 
 - ⚡ &nbsp; Fun fact: Calico is the name for a multicolored cat
