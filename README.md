@@ -50,7 +50,7 @@
 <br />
 <br />
 
-[website]: https://github.com/spirited-hunger/pixelizer
+[website]: https://github.com/spirited-hunger/pixpix
 [instagram]: https://www.instagram.com/sketch_sung/
 [linkedin]: https://www.linkedin.com/in/sung-jin-kang-480987225/
 
