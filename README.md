@@ -4,7 +4,7 @@
 - 🔭 &nbsp; I’m currently working on [Pixpix][website]
 - 🌱 &nbsp; I’m currently learning ***Typescript***
 - 👯 &nbsp; I’m looking to collaborate on architectural projects
-- 💬 &nbsp; 2022 Goals: Make a game
+- 💬 &nbsp; 2022 Goals: Make a game with Flutter
 - 🥁 &nbsp; I love to play drums and draw buildings 
 - ⚡ &nbsp; Fun fact: Calico is the name for a multicolored cat
 
